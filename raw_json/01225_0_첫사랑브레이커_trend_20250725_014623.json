@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250724",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "57.0921 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07241945-1084-0173-0000-7da08fdcd522",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "57.0559 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "첫사랑브레이커"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2025-06-30"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "첫사랑브레이커"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202025-06-30&q=%EC%B2%AB%EC%82%AC%EB%9E%91%EB%B8%8C%EB%A0%88%EC%9D%B4%EC%BB%A4",
+                    "datetime": "2025-07-24 16:46:24 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "첫사랑브레이커"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

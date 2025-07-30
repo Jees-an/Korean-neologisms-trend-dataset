@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250724",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "76.1235 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07242305-1084-0173-0000-435305f6c27e",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "76.0695 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "호모오디오쿠스"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2025-06-30"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "호모오디오쿠스"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202025-06-30&q=%ED%98%B8%EB%AA%A8%EC%98%A4%EB%94%94%EC%98%A4%EC%BF%A0%EC%8A%A4",
+                    "datetime": "2025-07-24 20:06:41 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "호모오디오쿠스"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250724",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "13.0636 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07242121-1084-0173-0000-a6158052472e",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "13.0281 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "목욕탕포비아"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2025-06-30"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "목욕탕포비아"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202025-06-30&q=%EB%AA%A9%EC%9A%95%ED%83%95%ED%8F%AC%EB%B9%84%EC%95%84",
+                    "datetime": "2025-07-24 18:21:46 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "목욕탕포비아"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

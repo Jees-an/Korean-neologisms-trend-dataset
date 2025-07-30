@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250724",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "78.1146 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07242219-1084-0173-0000-dca77567f692",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "78.0762 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "조공계"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2025-06-30"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "조공계"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202025-06-30&q=%EC%A1%B0%EA%B3%B5%EA%B3%84",
+                    "datetime": "2025-07-24 19:20:21 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "조공계"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

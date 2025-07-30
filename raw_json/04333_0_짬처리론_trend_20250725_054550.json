@@ -1,0 +1,64 @@
+{
+    "version": "0.1.20250724",
+    "status_code": 20000,
+    "status_message": "Ok.",
+    "time": "50.2814 sec.",
+    "cost": 0.009,
+    "tasks_count": 1,
+    "tasks_error": 0,
+    "tasks": [
+        {
+            "id": "07242345-1084-0173-0000-d8e1d47deb27",
+            "status_code": 20000,
+            "status_message": "Ok.",
+            "time": "50.1925 sec.",
+            "cost": 0.009,
+            "result_count": 1,
+            "path": [
+                "v3",
+                "keywords_data",
+                "google_trends",
+                "explore",
+                "live"
+            ],
+            "data": {
+                "api": "keywords_data",
+                "function": "explore",
+                "se": "google_trends",
+                "keywords": [
+                    "짬처리론"
+                ],
+                "location_code": 2410,
+                "language_code": "ko",
+                "type": "web",
+                "date_from": "2009-01-01",
+                "date_to": "2025-06-30"
+            },
+            "result": [
+                {
+                    "keywords": [
+                        "짬처리론"
+                    ],
+                    "type": "trends",
+                    "location_code": 2410,
+                    "language_code": "ko",
+                    "check_url": "https://trends.google.com/trends/explore?hl=ko&geo=KR&date=2009-01-01%202025-06-30&q=%EC%A7%AC%EC%B2%98%EB%A6%AC%EB%A1%A0",
+                    "datetime": "2025-07-24 20:45:49 +00:00",
+                    "items_count": 1,
+                    "items": [
+                        {
+                            "position": 1,
+                            "type": "google_trends_graph",
+                            "title": null,
+                            "keywords": [
+                                "짬처리론"
+                            ],
+                            "data": null,
+                            "averages": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
