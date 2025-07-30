@@ -1,4 +1,6 @@
 # 📈 **K-NEOBENCH-TREND**: 현대 한국어 신어 사용 추이
+- 📂 Main Project  
+- 🌱 **K-NEOBENCH**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/K-NEOBENCH)
 
 ## 1. 개요
 
@@ -20,7 +22,7 @@
 
     - 경북대학교 언어정보연구센터 *신어 조사 사업* (2020~2023년 신어, 총 1,383개)
       > 경북대학교 *신어 조사 사업*의 결과물은 아래의 저장소에서 DB 형태로 확인하실 수 있습니다.
-      - 📘 **K-NEOBENCH**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/K-NEOBENCH)
+      - 🌱 **K-NEOBENCH**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/K-NEOBENCH)
 
 - 사용 API: DataForSEO Google Trend API (Type: `WEB`)
 
@@ -29,9 +31,13 @@
 ## 3. 주요 예시
 
 ![예시 (1)](img/Korean_Neologism_Usage_Trend_Example_(1).png)
+- **기승전돔** "어떤 이야기이든지 돔 구장 건설로 결론을 내리는 현상을 이르는 말.", 2012년 신어(11.7.1.~12.6.30. 사이 <네이버 뉴스> 최초 출현)
 ![예시 (2)](img/Korean_Neologism_Usage_Trend_Example_(2).png)
+- **레전설** "전설에 가까운 영웅적인 존재를 비유적으로 이르는 말.", 2012년 신어(11.7.1.~12.6.30. 사이 <네이버 뉴스> 최초 출현)
 ![예시 (3)](img/Korean_Neologism_Usage_Trend_Example_(3).png)
-![예시 (4)](img/Korean_Neologism_Usage_Trend_Example_(4).png)s
+- **낮져밤이** "'낮에 지고 밤에 이기는 스타일'을 줄여 이르는 말.", 2013년 신어(12.7.1.~13.6.30. 사이 <네이버 뉴스> 최초 출현)
+![예시 (4)](img/Korean_Neologism_Usage_Trend_Example_(4).png)
+- **관심종자** "관심을 받고 싶어하는 사람을 속되게 이르는 말.", 2013년 신어(12.7.1.~13.6.30. 사이 <네이버 뉴스> 최초 출현)
 
 ---
 
