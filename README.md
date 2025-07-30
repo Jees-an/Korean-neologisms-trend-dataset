@@ -28,10 +28,10 @@
 
 ## 3. 주요 예시
 
-![예시 (1)](img/Korean_Neologism_Usage_Trend_Example_(1).jpg)
-![예시 (2)](img/Korean_Neologism_Usage_Trend_Example_(2).jpg)
-![예시 (3)](img/Korean_Neologism_Usage_Trend_Example_(3).jpg)
-![예시 (4)](img/Korean_Neologism_Usage_Trend_Example_(4).jpg)
+![예시 (1)](img/Korean_Neologism_Usage_Trend_Example_(1).png)
+![예시 (2)](img/Korean_Neologism_Usage_Trend_Example_(2).png)
+![예시 (3)](img/Korean_Neologism_Usage_Trend_Example_(3).png)
+![예시 (4)](img/Korean_Neologism_Usage_Trend_Example_(4).png)s
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 5. 참고문헌
 
-- 국립국어원(2012~2019), 『2012~2019년 신어 자료집』, 연구 책임자: 남길임
+- 국립국어원(2012˜2019), 『2012˜2019년 신어 자료집』, 연구 책임자: 남길임
 - 남길임·이수진·안진산(2025), 「말뭉치, LLMs, 인간 전문가의 협업을 통한 한국어 신어의 탐지」, 『한국어학』 108호 (*forthcoming*).
 - [남길임 외(2021), 『신어 2020』, 한국문화사](https://product.kyobobook.co.kr/detail/S000001848151)
 - [남길임 외(2022), 『신어 2021』, 한국문화사](https://product.kyobobook.co.kr/detail/S000200563843)
