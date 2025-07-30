@@ -1,11 +1,10 @@
 # 📈 **KNTD: Korean Neologisms Trend Dataset**
-## **현대 한국어 신어 사용 추이 데이터셋**
-### 📂 Main Project  
-### 🌱 **KNBD: Korean Neologisms Benchmark Dataset**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/Korean-neologisms-benchmark-dataset)
+- 📂 Main Project
+- 🌱 [KNBD: Korean Neologisms Benchmark Dataset](https://github.com/Jees-an/Korean-neologisms-benchmark-dataset)
 
 ## 1. 개요
 
-- **KNTD**는 2012년 이후 등장한 한국어 신어의 사용 추이 분석을 위한 보조 자료입니다. 😊
+- **KNTD**는 2012년 이후 등장한 한국어 신어의 사용 추이 분석한 데이터셋입니다. 😊
 - 다양한 데이터(말뭉치, Google Trends 등)를 통해 신어의 사용 양상을 분석하였으며, 시간의 변화에 따른 신어의 사용 추이를 제공합니다. ✨
 
 ---
