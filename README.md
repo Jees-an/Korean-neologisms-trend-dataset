@@ -1,10 +1,10 @@
-# 📈 **K-NEOBENCH-TREND**: 현대 한국어 신어 사용 추이
+# 📈 **KNTD: Korean Neologisms Trend Dataset**: 현대 한국어 신어 사용 추이 데이터셋
 - 📂 Main Project  
-- 🌱 **K-NEOBENCH**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/K-NEOBENCH)
+- 🌱 **KNBD: Korean Neologisms Benchmark Dataset**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/Korean-neologisms-benchmark-dataset)
 
 ## 1. 개요
 
-- **K-NEOBENCH-TREND**는 2012년 이후 등장한 한국어 신어의 사용 추이 분석을 위한 보조 벤치마크입니다. 😊
+- **KNTD**는 2012년 이후 등장한 한국어 신어의 사용 추이 분석을 위한 보조 자료입니다. 😊
 - 다양한 데이터(말뭉치, Google Trends 등)를 통해 신어의 사용 양상을 분석하였으며, 시간의 변화에 따른 신어의 사용 추이를 제공합니다. ✨
 
 ---
@@ -22,7 +22,7 @@
 
     - 경북대학교 언어정보연구센터 *신어 조사 사업* (2020~2023년 신어, 총 1,383개)
       > 경북대학교 *신어 조사 사업*의 결과물은 아래의 저장소에서 DB 형태로 확인하실 수 있습니다.
-      - 🌱 **K-NEOBENCH**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/K-NEOBENCH)
+      - 🌱 **KNBD**: [현대 한국어 신어 벤치마크](https://github.com/Jees-an/Korean-neologisms-benchmark-dataset)
 
 - 사용 API: DataForSEO Google Trend API (Type: `WEB`)
 
