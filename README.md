@@ -75,5 +75,5 @@
 - [남길임 외(2023), 『신어 2022』, 한국문화사](https://product.kyobobook.co.kr/detail/S000211731664)
 - [남길임 외(2024), 『신어 2023』, 한국문화사](https://product.kyobobook.co.kr/detail/S000215101540)
 - 남길임 외(2025), 『신어 2024』, 한국문화사 (*forthcoming*).
-- 국립국어원(2012˜2019), 『2012˜2019년 신어 자료집』, 연구 책임자: 남길임
+- 국립국어원(2012˜2019), 『2012˜2019년 신어 자료집』, 국립국어원, 연구 책임자: 남길임.
 - [Zheng et al. (2024), NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms (현대 영어 신어 벤치마크), *arXiv preprint arXiv:2402.12261.*](https://arxiv.org/pdf/2402.12261)
